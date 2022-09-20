@@ -3,4 +3,5 @@
 import streamlit as st
 
 
-st.title("This is page 2")
+st.title("Second Page")
+st.text("Mira Mira")
